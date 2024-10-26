@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# Data Science - mi compuador ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## intoduccion \n\nEste cuaderno incluye te hace realizar diferentes ejercicios de  la materia de ciencia de datos ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Estos son los lenguajes mas utilizados en la ciencia de datos \n- Python\n- R\n- SQL",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Estas son las librerias mas utilizadas en la ciencia de datos \n- Pandas\n- numPy\n- Matplotlib",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Herramientas utilizadas en ciencia de datos\n\nHerramienta\t                        Descripción\nCuaderno Jupyter\t  Un entorno interactivo de cuaderno para desarrollar y ejecutar código en vivo, visualizar                       datos, y documentar el flujo de trabajo.\nRStudio\t              Un entorno de desarrollo integrado (IDE) específico para el lenguaje R, diseñado para                           análisis estadístico y visualización de datos.\nApache Hadoop\t      Un marco de software para el procesamiento y almacenamiento distribuido de grandes                              conjuntos de datos en clusters de servidores.\nGitHub             \t  Una plataforma de alojamiento de repositorios para el control de versiones y la                                 colaboración en proyectos de código.\nTensorFlow\t          Una biblioteca de código abierto diseñada para tareas de aprendizaje profundo y redes                           neuronales.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## Ejemplos de ejercicios de expresiones aritmeticas ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "a = 5 * 6\nb = a + 10\nb",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 14,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "40"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 14
+    },
+    {
+      "cell_type": "code",
+      "source": "#### minutes = 150\nhours = minutes / 60\nhours",
+      "metadata": {
+        "trusted": true,
+        "tags": [],
+        "editable": true,
+        "slideshow": {
+          "slide_type": ""
+        },
+        "scrolled": true
+      },
+      "outputs": [
+        {
+          "execution_count": 15,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "2.5"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 15
+    },
+    {
+      "cell_type": "code",
+      "source": "goals = [\"Learn Python\", \"Handle data\", \"Apply ML models\", \"Have fun!\"]\ngoals",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 16,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "['Learn Python', 'Handle data', 'Apply ML models', 'Have fun!']"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 16
+    },
+    {
+      "cell_type": "markdown",
+      "source": "#  mi computador fue creado \n## Harim Aid ",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    }
+  ]
+}
